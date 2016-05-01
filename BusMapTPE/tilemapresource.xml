@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>v2.12-200dpi.png</Title>
+      <Title>v2.14-200dpi.png</Title>
       <Abstract></Abstract>
       <SRS></SRS>
       <BoundingBox minx="-39370.00000000000000" miny="0.00000000000000" maxx="0.00000000000000" maxy="39370.00000000000000"/>
